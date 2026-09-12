@@ -18,31 +18,32 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Simranjot Kaur </p>
+    <p><strong>Email ID:</strong> 	
+simranjotkaurg1dataanalytics@gmail.com </p>
+    <p><strong>College Name:</strong> Chandigarh Group of Colleges </p>
+    <p><strong>Branch/Specialization :</strong> Btech CSE </p>
+    <p><strong>College ID:</strong> 2101872 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Data Analytics </p>
+    <p><strong>Instructor Name:</strong> < </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> February to  July </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
+<p><strong>Trainer Name:</strong> Nithyasri Kannathal </p>
 <p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Designation:</strong> Software Development Engineer II  </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,30 +64,25 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my Data Analytics internship with SURE ProEd, I learned how to collect, clean, validate, analyse and present data.
+
+I gained practical experience in Python, SQL, Excel, machine learning, Streamlit and Power BI. I also learned how to convert analytical results into simple business insights.
+
+This internship helped me improve my technical knowledge, problem-solving ability, communication skills, presentation skills and confidence in handling an end-to-end data analytics project.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> Aerospace Supplier Risk Intelligence </p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Aerospace Supplier Risk Intelligence </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+The project predicts the late-delivery risk of purchase orders and helps procurement teams identify which orders require attention first.
+The complete solution includes data cleaning, SQL analysis, machine-learning prediction, risk explanation, a Streamlit application and Power BI dashboards.
 </p>
 <p>
   <a href="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
