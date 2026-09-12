@@ -84,111 +84,243 @@ This internship helped me improve my technical knowledge, problem-solving abilit
 The project predicts the late-delivery risk of purchase orders and helps procurement teams identify which orders require attention first.
 The complete solution includes data cleaning, SQL analysis, machine-learning prediction, risk explanation, a Streamlit application and Power BI dashboards.
 </p>
----
+<h2 id="project-introduction" style="color:#333;">Project Introduction</h2>
 
-## Project Introduction
+<div align="left" style="margin:20px; font-size:16px;">
 
-Aerospace companies depend on suppliers for the timely delivery of important parts. A delay in one critical part can affect production schedules, inventory and customer commitments.
+<p>
+Aerospace companies depend on suppliers for the timely delivery of important
+parts. A delay in one critical part can affect production schedules, inventory
+availability and customer commitments.
+</p>
 
-Procurement teams may need to monitor thousands of purchase orders. Checking every order manually can be difficult and time-consuming.
+<p>
+Procurement teams may need to monitor thousands of purchase orders. Checking
+every order manually can be difficult and time-consuming.
+</p>
 
-The Aerospace Supplier Risk Intelligence project was developed as an early-warning decision-support system. It estimates the late-delivery probability of purchase orders, identifies the primary risk driver and recommends an appropriate procurement action.
+<p>
+The <strong>Aerospace Supplier Risk Intelligence</strong> project was developed
+as an early-warning decision-support system. It estimates the late-delivery
+probability of purchase orders, identifies the primary risk driver and
+recommends an appropriate procurement action.
+</p>
 
-The project analyses:
+<p><strong>The project analyses:</strong></p>
 
-- 40 suppliers
-- 300 parts
-- 29,666 purchase orders
-- 368 quality incidents
-- 280,800 supply-chain history records
-- 6,002 final PO risk records
+<ul>
+    <li><strong>40</strong> suppliers</li>
+    <li><strong>300</strong> parts</li>
+    <li><strong>29,666</strong> purchase orders</li>
+    <li><strong>368</strong> quality incidents</li>
+    <li><strong>280,800</strong> supply-chain history records</li>
+    <li><strong>6,002</strong> final PO risk records</li>
+</ul>
 
----
+</div>
 
-## Project Objectives
+<hr style="border:0; border-top:1px solid #ccc; width:80%;" />
 
-The main objectives of the project were:
+<h3 id="project-objectives" style="color:#333;">Project Objectives</h3>
 
-- To clean and validate supplier and purchase-order data
-- To analyse supplier delivery performance
-- To predict PO late-delivery probability
-- To classify alerts as Critical, High, Medium or Low
-- To identify the primary risk driver
-- To generate simple risk explanations
-- To recommend procurement actions
-- To create an interactive Streamlit application
-- To develop Power BI dashboards
-- To provide a prioritised procurement action queue
+<div align="left" style="margin:20px; font-size:16px;">
 
----
+<p>The main objectives of the project were:</p>
 
-## Technologies Used
+<ul>
+    <li>To clean and validate supplier and purchase-order data</li>
+    <li>To analyse supplier delivery performance</li>
+    <li>To predict purchase-order late-delivery probability</li>
+    <li>To classify alerts as Critical, High, Medium or Low</li>
+    <li>To identify the primary risk driver behind each alert</li>
+    <li>To generate simple and understandable risk explanations</li>
+    <li>To recommend appropriate procurement actions</li>
+    <li>To create an interactive Streamlit application</li>
+    <li>To develop Power BI dashboards</li>
+    <li>To provide a prioritised procurement action queue</li>
+</ul>
 
-| Technology | Purpose |
-|---|---|
-| Python | Data processing and machine learning |
-| Pandas and NumPy | Data cleaning and analysis |
-| Scikit-learn | Model training and evaluation |
-| SQL | Data analysis and reusable analytical views |
-| Streamlit | Interactive decision-support website |
-| Plotly | Interactive charts |
-| Power BI | Dashboards and visual reporting |
-| GitHub | Source code and project documentation |
+</div>
 
----
+<hr style="border:0; border-top:1px solid #ccc; width:80%;" />
 
-## Roles and Responsibilities
+<h3 id="technologies-used" style="color:#333;">Technologies Used</h3>
 
-My responsibilities during the project included:
+<div align="center" style="margin:20px; font-size:16px;">
 
-- Understanding the procurement business problem
-- Reviewing and cleaning the datasets
-- Performing data-validation checks
-- Creating analytical features
-- Developing SQL views
-- Comparing machine-learning models
-- Evaluating model performance
-- Analysing feature importance
-- Creating risk categories
-- Developing rule-based risk explanations
-- Building the Streamlit application
-- Developing Power BI dashboards
-- Preparing project documentation and presentation
+<table>
+    <thead>
+        <tr>
+            <th align="left">Technology</th>
+            <th align="left">Purpose</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Python</strong></td>
+            <td>Data processing and machine learning</td>
+        </tr>
+        <tr>
+            <td><strong>Pandas and NumPy</strong></td>
+            <td>Data cleaning and analysis</td>
+        </tr>
+        <tr>
+            <td><strong>Scikit-learn</strong></td>
+            <td>Model training and evaluation</td>
+        </tr>
+        <tr>
+            <td><strong>SQL</strong></td>
+            <td>Data analysis and reusable analytical views</td>
+        </tr>
+        <tr>
+            <td><strong>Streamlit</strong></td>
+            <td>Interactive decision-support website</td>
+        </tr>
+        <tr>
+            <td><strong>Plotly</strong></td>
+            <td>Interactive charts and visualisations</td>
+        </tr>
+        <tr>
+            <td><strong>Power BI</strong></td>
+            <td>Dashboards and visual reporting</td>
+        </tr>
+        <tr>
+            <td><strong>GitHub</strong></td>
+            <td>Source code and project documentation</td>
+        </tr>
+    </tbody>
+</table>
 
----
+</div>
 
-## Project Results
+<hr style="border:0; border-top:1px solid #ccc; width:80%;" />
 
-Three machine-learning models were compared:
+<h3 id="roles-and-responsibilities" style="color:#333;">
+Roles and Responsibilities
+</h3>
 
-- Logistic Regression
-- Random Forest
-- HistGradientBoosting
+<div align="left" style="margin:20px; font-size:16px;">
 
-A classification threshold of **0.45** was used for the early-warning system.
+<p>My responsibilities during the project included:</p>
 
-### Model Metrics
+<ul>
+    <li>Understanding the procurement business problem</li>
+    <li>Reviewing and cleaning the project datasets</li>
+    <li>Performing data-validation checks</li>
+    <li>Creating analytical and machine-learning features</li>
+    <li>Developing reusable SQL views</li>
+    <li>Comparing machine-learning models</li>
+    <li>Evaluating model performance</li>
+    <li>Analysing feature importance</li>
+    <li>Creating Critical, High, Medium and Low risk categories</li>
+    <li>Developing rule-based risk explanations</li>
+    <li>Building the Streamlit decision-support application</li>
+    <li>Developing Power BI dashboards</li>
+    <li>Preparing project documentation and presentation</li>
+</ul>
 
-| Metric | Result |
-|---|---:|
-| Precision | 63.9% |
-| Recall | 71.9% |
-| F1 Score | 67.7% |
-| ROC-AUC | Approximately 0.64 |
+</div>
 
-### Alert Distribution
+<hr style="border:0; border-top:1px solid #ccc; width:80%;" />
 
-| Alert Priority | Number of Alerts |
-|---|---:|
-| Critical | 285 |
-| High | 2,410 |
-| Medium | 1,136 |
-| Low | 2,171 |
-| **Total** | **6,002** |
+<h3 id="project-results" style="color:#333;">Project Results</h3>
 
-The project also identified **152 critical-part escalations**.
+<div align="left" style="margin:20px; font-size:16px;">
 
-The model is an early-warning decision-support tool. It does not guarantee that a purchase order will be late, and final procurement decisions require human review.
+<p>Three machine-learning models were compared:</p>
+
+<ul>
+    <li>Logistic Regression</li>
+    <li>Random Forest</li>
+    <li>HistGradientBoosting</li>
+</ul>
+
+<p>
+A classification threshold of <strong>0.45</strong> was used for the
+early-warning system.
+</p>
+
+<h3>Model Metrics</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th align="left">Metric</th>
+            <th align="right">Result</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Precision</strong></td>
+            <td align="right">63.9%</td>
+        </tr>
+        <tr>
+            <td><strong>Recall</strong></td>
+            <td align="right">71.9%</td>
+        </tr>
+        <tr>
+            <td><strong>F1 Score</strong></td>
+            <td align="right">67.7%</td>
+        </tr>
+        <tr>
+            <td><strong>ROC-AUC</strong></td>
+            <td align="right">Approximately 0.64</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<h3>Alert Distribution</h3>
+
+<table>
+    <thead>
+        <tr>
+            <th align="left">Alert Priority</th>
+            <th align="right">Number of Alerts</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Critical</strong></td>
+            <td align="right">285</td>
+        </tr>
+        <tr>
+            <td><strong>High</strong></td>
+            <td align="right">2,410</td>
+        </tr>
+        <tr>
+            <td><strong>Medium</strong></td>
+            <td align="right">1,136</td>
+        </tr>
+        <tr>
+            <td><strong>Low</strong></td>
+            <td align="right">2,171</td>
+        </tr>
+        <tr>
+            <td><strong>Total</strong></td>
+            <td align="right"><strong>6,002</strong></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p>
+The project also identified
+<strong>152 critical-part escalations</strong>.
+</p>
+
+<blockquote>
+The model is an early-warning decision-support tool. It does not guarantee
+that a purchase order will be late. Final procurement decisions require
+human review.
+</blockquote>
+
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; width:80%;" />
+
 
 <p>
   <a href="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
