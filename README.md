@@ -84,6 +84,110 @@ This internship helped me improve my technical knowledge, problem-solving abilit
 The project predicts the late-delivery risk of purchase orders and helps procurement teams identify which orders require attention first.
 The complete solution includes data cleaning, SQL analysis, machine-learning prediction, risk explanation, a Streamlit application and Power BI dashboards.
 </p>
+## Project Introduction
+
+Aerospace companies depend on suppliers for the timely delivery of important parts. A delay in one critical part can affect production schedules, inventory and customer commitments.
+
+Procurement teams may need to monitor thousands of purchase orders. Checking every order manually can be difficult and time-consuming.
+
+The Aerospace Supplier Risk Intelligence project was developed as an early-warning decision-support system. It estimates the late-delivery probability of purchase orders, identifies the primary risk driver and recommends an appropriate procurement action.
+
+The project analyses:
+
+- 40 suppliers
+- 300 parts
+- 29,666 purchase orders
+- 368 quality incidents
+- 280,800 supply-chain history records
+- 6,002 final PO risk records
+
+---
+
+## Project Objectives
+
+The main objectives of the project were:
+
+- To clean and validate supplier and purchase-order data
+- To analyse supplier delivery performance
+- To predict PO late-delivery probability
+- To classify alerts as Critical, High, Medium or Low
+- To identify the primary risk driver
+- To generate simple risk explanations
+- To recommend procurement actions
+- To create an interactive Streamlit application
+- To develop Power BI dashboards
+- To provide a prioritised procurement action queue
+
+---
+
+## Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python | Data processing and machine learning |
+| Pandas and NumPy | Data cleaning and analysis |
+| Scikit-learn | Model training and evaluation |
+| SQL | Data analysis and reusable analytical views |
+| Streamlit | Interactive decision-support website |
+| Plotly | Interactive charts |
+| Power BI | Dashboards and visual reporting |
+| GitHub | Source code and project documentation |
+
+---
+
+## Roles and Responsibilities
+
+My responsibilities during the project included:
+
+- Understanding the procurement business problem
+- Reviewing and cleaning the datasets
+- Performing data-validation checks
+- Creating analytical features
+- Developing SQL views
+- Comparing machine-learning models
+- Evaluating model performance
+- Analysing feature importance
+- Creating risk categories
+- Developing rule-based risk explanations
+- Building the Streamlit application
+- Developing Power BI dashboards
+- Preparing project documentation and presentation
+
+---
+
+## Project Results
+
+Three machine-learning models were compared:
+
+- Logistic Regression
+- Random Forest
+- HistGradientBoosting
+
+A classification threshold of **0.45** was used for the early-warning system.
+
+### Model Metrics
+
+| Metric | Result |
+|---|---:|
+| Precision | 63.9% |
+| Recall | 71.9% |
+| F1 Score | 67.7% |
+| ROC-AUC | Approximately 0.64 |
+
+### Alert Distribution
+
+| Alert Priority | Number of Alerts |
+|---|---:|
+| Critical | 285 |
+| High | 2,410 |
+| Medium | 1,136 |
+| Low | 2,171 |
+| **Total** | **6,002** |
+
+The project also identified **152 critical-part escalations**.
+
+The model is an early-warning decision-support tool. It does not guarantee that a purchase order will be late, and final procurement decisions require human review.
+
 <p>
   <a href="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
