@@ -84,6 +84,8 @@ This internship helped me improve my technical knowledge, problem-solving abilit
 The project predicts the late-delivery risk of purchase orders and helps procurement teams identify which orders require attention first.
 The complete solution includes data cleaning, SQL analysis, machine-learning prediction, risk explanation, a Streamlit application and Power BI dashboards.
 </p>
+---
+
 ## Project Introduction
 
 Aerospace companies depend on suppliers for the timely delivery of important parts. A delay in one critical part can affect production schedules, inventory and customer commitments.
