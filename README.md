@@ -84,7 +84,7 @@ This internship helped me improve my technical knowledge, problem-solving abilit
 The project predicts the late-delivery risk of purchase orders and helps procurement teams identify which orders require attention first.
 The complete solution includes data cleaning, SQL analysis, machine-learning prediction, risk explanation, a Streamlit application and Power BI dashboards.
 </p>
-<h2 id="project-introduction" style="color:#333;">Project Introduction</h2>
+<h3 id="project-introduction" style="color:#333;">Project Introduction</h3>
 
 <div align="left" style="margin:20px; font-size:16px;">
 
