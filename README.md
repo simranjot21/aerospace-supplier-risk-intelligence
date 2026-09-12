@@ -31,7 +31,7 @@ simranjotkaurg1dataanalytics@gmail.com </p>
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Data Analytics </p>
-    <p><strong>Instructor Name:</strong> Nithyasri Kannathal < </p>
+    <p><strong>Instructor Name:</strong> Nithyasri Kannathal </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> February to  July </p>
