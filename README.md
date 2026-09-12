@@ -31,7 +31,7 @@ simranjotkaurg1dataanalytics@gmail.com </p>
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Data Analytics </p>
-    <p><strong>Instructor Name:</strong> < </p>
+    <p><strong>Instructor Name:</strong> Nithyasri Kannathal < </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> February to  July </p>
@@ -42,7 +42,7 @@ simranjotkaurg1dataanalytics@gmail.com </p>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Nithyasri Kannathal </p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
+<p><strong>Trainer Email ID:</strong> linkedin.com/in/nithyasri-kannathal </p>
 <p><strong>Trainer Designation:</strong> Software Development Engineer II  </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -88,72 +88,55 @@ The complete solution includes data cleaning, SQL analysis, machine-learning pre
   <a href="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
-## **References**
-
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
-
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+The LST and SST sessions were an important part of my internship journey. These sessions were conducted by experienced senior professionals who shared practical knowledge on different topics that are especially useful for freshers.
+
+The sessions covered areas such as:
+
+- Artificial Intelligence and its growing role in the workplace
+- Personal savings and basic financial awareness
+- Effective communication
+- Professional behaviour and workplace expectations
+- Interview preparation and the interviewer’s perspective
+- Confidence building and presentation skills
+- Career planning and continuous learning
+
+These sessions helped me understand that professional success depends not only on technical knowledge but also on communication, confidence, financial awareness and the ability to adapt to the workplace.
+
+The interview-related sessions were particularly helpful because they explained what employers expect from freshers and how candidates should present their skills and experiences. The communication sessions helped me improve the way I express my ideas, while the sessions on AI and financial awareness introduced me to important topics beyond the Data Analytics curriculum.
+
+Overall, the LST and SST sessions provided guidance from different perspectives and helped me become more confident, responsible and prepared for future professional opportunities.
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+As part of the SURE ProEd community-service initiative, I participated in activities related to environmental protection and community support.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
- <!-- add the location where you have panted -->
+
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-  <!-- add the location where you helped -->
 - **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
 
-<!-- you can write impacts according to your experience in your words-->
+
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Understand the importance of protecting the environment
+- Develop empathy and patience
+- Understand the needs of elderly people and persons with disabilities
+- Improve my communication skills
+- Develop a stronger sense of social responsibility
+- Contribute positively to my community
 
 ### **Photos**
 
-<!-- add your photos below -->
-<!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/assets/PLANTING%20TREES.jpeg" alt="Community Service Photo 1" width="30%">
@@ -166,7 +149,6 @@ During my internship period, I participated in multiple community-oriented activ
 
 The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
 
-<!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
 <img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
@@ -176,7 +158,10 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
-- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+I sincerely thank my mentors, **Nithyasri Kannathal EL Ma’am** and **Bhargavesh Dakka Sir**, for their valuable guidance, support and encouragement throughout my Data Analytics learning journey.
+
+I am grateful to [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b), Executive Director and Founder of [SURE Trust](https://www.suretrustforruralyouth.com/), for providing this learning opportunity.
+
+I also thank the entire SURE ProEd and SURE Trust team for combining technical training, project-based learning and community service into a meaningful internship experience.
 
