@@ -379,8 +379,10 @@ As part of the SURE ProEd community-service initiative, I participated in activi
 
 
 <div align="center">
-<img src="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/assets/PLANTING%20TREES.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/simranjot21/aerospace-supplier-risk-intelligence/blob/main/assets/PICS2.jpeg" alt="Community Service Photo 2" width="30%">
+<p>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7504587728626348032/" target="_blank"><strong>→View My Community Service Post on LinkedIn</strong></a>
+</p>
+
 </div>
 
 ---
