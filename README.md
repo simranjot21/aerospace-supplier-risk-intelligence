@@ -31,7 +31,8 @@ simranjotkaurg1dataanalytics@gmail.com </p>
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> Data Analytics </p>
-    <p><strong>Instructor Name:</strong> Nithyasri Kannathal </p>
+    <p><strong>Instructor Name:</strong> Ms. Nithyasri Kannathal </p>
+    <p><strong>Instructor Name:</strong> Mr. Bhargavesh Dakka </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> February to  July </p>
@@ -42,8 +43,9 @@ simranjotkaurg1dataanalytics@gmail.com </p>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Nithyasri Kannathal </p>
-<p><strong>Trainer Email ID:</strong> linkedin.com/in/nithyasri-kannathal </p>
 <p><strong>Trainer Designation:</strong> Software Development Engineer II  </p>
+<p><strong>Trainer Name:</strong> Mr. Bhargavesh Dakka </p>
+<p><strong>Trainer Designation:</strong> GenAI Consultant  </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
