@@ -20,7 +20,7 @@
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> Simranjot Kaur </p>
     <p><strong>Email ID:</strong> 	
-simranjotkaurg1dataanalytics@gmail.com </p>
+simranjotkaur237@gmail.com </p>
     <p><strong>College Name:</strong> Chandigarh Group of Colleges </p>
     <p><strong>Branch/Specialization :</strong> Btech CSE </p>
     <p><strong>College ID:</strong> 2101872 </p>
