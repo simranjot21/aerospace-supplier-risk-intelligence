@@ -375,15 +375,15 @@ As part of the SURE ProEd community-service initiative, I participated in activi
 - Develop a stronger sense of social responsibility
 - Contribute positively to my community
 
-### **Photos**
+### **LinkedIn Post**
 
+I shared my community-service contribution on LinkedIn as part of the internship documentation.
 
-<div align="center">
 <p>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7504587728626348032/" target="_blank"><strong>→View My Community Service Post on LinkedIn</strong></a>
 </p>
 
-</div>
+
 
 ---
 
