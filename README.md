@@ -362,7 +362,7 @@ As part of the SURE ProEd community-service initiative, I participated in activi
 
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
 
 
 
