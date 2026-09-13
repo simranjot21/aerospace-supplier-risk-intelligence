@@ -42,7 +42,7 @@ simranjotkaur237@gmail.com </p>
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> Nithyasri Kannathal </p>
+<p><strong>Trainer Name:</strong> Ms. Nithyasri Kannathal </p>
 <p><strong>Trainer Designation:</strong> Software Development Engineer II  </p>
 <p><strong>Trainer Name:</strong> Mr. Bhargavesh Dakka </p>
 <p><strong>Trainer Designation:</strong> GenAI Consultant  </p>
